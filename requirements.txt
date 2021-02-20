@@ -1,0 +1,9 @@
+requests==2.25.1
+pyppdf==0.0.12
+beautifulsoup4==4.6.0
+pyppeteer==0.2.5
+websockets==8.1
+pyee==6.0.0
+zipp==3.4.0
+urllib3==1.26.3
+lxml==4.6.2
